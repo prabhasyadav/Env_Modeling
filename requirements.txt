@@ -2,3 +2,4 @@ numpy==1.16.*
 matplotlib==3.*
 rise==5.5.*
 sympy==1.*
+scipy==1.2.*
